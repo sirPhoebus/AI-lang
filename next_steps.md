@@ -1,0 +1,1 @@
+Residual patching and virtual prefix are powerful for the long-term vision (true semantic message passing, cross-model comms), but they're v2/v3 material—more invasive, require projection matrices/gating, and risk instability until we have scaling/negotiation dialed in.
