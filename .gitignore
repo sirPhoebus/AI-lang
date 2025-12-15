@@ -1,5 +1,5 @@
 .venv
 /SFFRnet/*
 __pycache__
-tests/*
 *.jsonl
+*.log
